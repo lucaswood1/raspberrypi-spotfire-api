@@ -20,6 +20,7 @@ The keg would be connected to the sensor and pass real-time information to the R
 The first step was to acquire the Raspberry Pi. I picked up a relatively inexpensive one off Amazon and then separately purchased two temperature sensors by Adafruit. It read temperature and humidity, but for the moment we’d just use the former.
 
 There’s enough information online to confirm that these would be compatible. After unpacking it, I setup an Ubuntu image and booted it up.
+
 ![build](https://datashoptalk.com/wp-content/uploads/2019/06/061019_1640_RealtimePro4.png)
 
 ## Results
