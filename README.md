@@ -1,7 +1,7 @@
 # raspberrypi-spotfire-api
 Retrieved temperature data and posted to a well's casing temperature
 
-Initially posted on DataShopTalk.com[https://datashoptalk.com/real-time-production-in-petro-ai-using-raspberry-pi/]
+Initially posted on [DataShopTalk.com](https://datashoptalk.com/real-time-production-in-petro-ai-using-raspberry-pi/)
 
 One of the most pressing topics for data administrators is “what can I do with my real-time production data?”. With the advent of science pads and a move to digitization in the oilfield, streaming data has become one of the most valuable assets. But it can take some practice and getting used to.
 
@@ -11,7 +11,9 @@ We would connect a Raspberry Pi with a sensor for temperature to the cold brew k
 
 ## The Plan
 The over diagram would look like this:
-!(https://datashoptalk.com/wp-content/uploads/2019/06/061019_1640_RealtimePro2.png)
+
+![diagram](https://datashoptalk.com/wp-content/uploads/2019/06/061019_1640_RealtimePro2.png)
+
 The keg would be connected to the sensor and pass real-time information to the Raspberry Pi. Then it would shape it into the real-time schema and publish to the REST API endpoint.
 
 ## Build out
